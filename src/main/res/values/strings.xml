@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="error_message">Movie Data is not found, check your internet</string>
+
+    <string name="popular_movie">Popular Movie</string>
+    <string name="top_rated_movie">Top Rated Movie</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="sort_by">Sort By</string>
+    <string name="markFavorite">Mark as Favorite</string>
+</resources>
