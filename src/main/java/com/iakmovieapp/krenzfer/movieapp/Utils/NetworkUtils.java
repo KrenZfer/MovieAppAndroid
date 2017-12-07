@@ -35,7 +35,9 @@ public final class NetworkUtils {
 
     public static final String VIDEO_END_POINT = "videos";
 
-    private static final String TMBD_API_KEY = "926f126df56243f7ced724f74320507f";
+    //find your own api_key from TMDB website account
+    private static final String TMBD_API_KEY = "";
+
     private static final String DEFAULT_LANGUAGE = "en-US";
     private static final int DEFAULT_NUM_PAGE = 1;
 
